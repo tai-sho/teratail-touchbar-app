@@ -1,0 +1,26 @@
+{
+  "name": "teratail-touchbar",
+  "version": "1.0.0",
+  "description": "Touchbarからteratailを扱うデモ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tai-sho/teratail-touchbar-app.git"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.6"
+  },
+  "dependencies": {
+    "electron-fetch": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/tai-sho/teratail-touchbar-app/issues"
+  },
+  "homepage": "https://github.com/tai-sho/teratail-touchbar-app#readme"
+}
