@@ -11,7 +11,10 @@
     "start": "electron ."
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "ShoheiTai",
+    "url": "http://tech-style.info"
+  },
   "license": "ISC",
   "devDependencies": {
     "electron": "1.7.6"
